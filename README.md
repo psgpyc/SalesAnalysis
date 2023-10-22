@@ -33,8 +33,8 @@ The data used in this project comes from a variety of sources, including publicl
 
 You will find a selection of data visualizations and reports in the project, showcasing different aspects of data analysis, including trends, correlations, and business performance metrics. 
 
-![Example Visualization](![image](https://github.com/psgpyc/SalesAnalysis/assets/16277936/030f3c9d-4fd2-425a-8962-195adebca228)
-)
+![Example Visualization](https://github.com/psgpyc/SalesAnalysis/assets/16277936/030f3c9d-4fd2-425a-8962-195adebca228)
+
 
 ## Usage
 
