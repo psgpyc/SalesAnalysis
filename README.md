@@ -7,7 +7,7 @@ Welcome to my Portfolio Sales Analysis Project using Power BI. This project show
 - [Project Objectives](#project-objectives)
 - [Key Features](#key-features)
 - [Data Sources](#data-sources)
-- [Visualizations](#visualizations)
+- [Result & Visualizations](#result-&-visualizations)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -39,11 +39,15 @@ The primary goals of this Sales Analysis project are as follows:
 
 The data used in this project comes from a variety of sources, including publicly available datasets, personal projects, and simulated data for analysis purposes. Detailed information on each data source is available in the project files.
 
-## Visualizations
+## Result & Visualizations
+The project aims to provide actionable insights regarding sales performance based on the analysis of AOV, Monthly Sales Growth, and Sales Conversion Rate. These insights can help inform decision-making, marketing strategies, and overall business optimization.
 
 You will find a selection of data visualizations and reports in the project, showcasing different aspects of data analysis, including trends, correlations, and business performance metrics. 
 
-![Example Visualization](https://github.com/psgpyc/SalesAnalysis/assets/16277936/030f3c9d-4fd2-425a-8962-195adebca228)
+![Average Order Value(AOV)](https://github.com/psgpyc/SalesAnalysis/assets/16277936/030f3c9d-4fd2-425a-8962-195adebca228)
+
+![Monthly Sales Growth](https://github.com/psgpyc/SalesAnalysis/assets/16277936/17d333c3-68b9-440b-a1f6-0acd22bc79ab)
+
 
 
 ## Usage
