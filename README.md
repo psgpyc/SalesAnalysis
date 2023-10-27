@@ -1,9 +1,10 @@
 # Portfolio Data Analysis Project with Power BI
 
-Welcome to my Portfolio Data Analysis Project using Power BI. This project showcases my data analysis and visualization skills, demonstrating how I leverage Power BI to extract insights from various datasets. 
+Welcome to my Portfolio Sales Analysis Project using Power BI. This project showcases my data analysis and visualization skills, demonstrating how I leverage Power BI to extract insights from various datasets. 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [Project Objectives](#project-objectives)
 - [Key Features](#key-features)
 - [Data Sources](#data-sources)
 - [Visualizations](#visualizations)
@@ -13,7 +14,16 @@ Welcome to my Portfolio Data Analysis Project using Power BI. This project showc
 
 ## Project Overview
 
-This portfolio project is a representation of my data analysis capabilities using Power BI. It includes a collection of data visualizations, insights, and reports created from diverse datasets. The goal is to demonstrate my proficiency in turning raw data into actionable business intelligence.
+This GitHub repository contains the code and documentation for a Sales Analysis project, which focuses on the analysis of key sales performance metrics. The primary objectives of this project are to analyze and gain insights into the Average Order Value (AOV), Monthly Sales Growth, and Sales Conversion Rate of a business.
+
+## Project Objectives
+The primary goals of this Sales Analysis project are as follows:
+
+- **Average Order Value (AOV) Analysis:** To calculate and analyze the Average Order Value over a specified time period, providing insights into the average revenue generated per customer order.
+
+- **Monthly Sales Growth Analysis:** To track and analyze the monthly sales growth over time, helping to identify trends and seasonality in sales performance.
+
+- **Sales Conversion Rate Analysis:** To determine and assess the sales conversion rate, which measures the effectiveness of turning leads or visitors into paying customers.
 
 ## Key Features
 
